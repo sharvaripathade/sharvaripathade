@@ -48,7 +48,7 @@ Currently focused on Python, Data Structures & Algorithms, AI, Full Stack Develo
 
 📫 Reach me
 
-📧 your_email@gmail.com
+📧 sharvaripathade@gmail.com
 
 ---
 
