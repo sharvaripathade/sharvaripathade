@@ -1,120 +1,158 @@
-# Hi 👋 I'm Sharvari Pathade
+<div align="center">
 
-### Aspiring AI Engineer • Python Developer • Building one project at a time.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Sharvari%20Pathade&fontSize=52&fontAlign=50&fontAlignY=38&desc=Building%20today%20for%20the%20engineer%20I%20want%20to%20become%20tomorrow.&descAlign=50&descAlignY=60&animation=twinkling&fontColor=ffffff&color=0:0F172A,25:1E3A8A,50:2563EB,75:38BDF8,100:7C3AED"/>
 
-> **Learning with purpose. Building with consistency.**
+# Hi 👋 I'm Sharvari
 
-------------------------------------------------------------------------
+### 🚀 Aspiring AI Engineer • Python Developer • Lifelong Learner
 
-## 👋 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Building+today+for+the+engineer+I+want+to+become+tomorrow.;Learning+Python+%F0%9F%90%8D;Solving+DSA+Problems+%F0%9F%A7%A9;Building+Real+Projects+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Learning+in+Public+%F0%9F%9A%80"/>
 
-I'm a Computer Engineering student passionate about Artificial
-Intelligence and software development.
+</div>
+# 👋 About Me
 
-I'm currently building a strong foundation in:
+I'm **Sharvari Pathade**, a Computer Engineering student passionate about Artificial Intelligence and software development.
 
--   🐍 Python
--   🧩 Data Structures & Algorithms
--   🤖 AI & Automation
--   🌐 Full Stack Development
--   ⚙️ Software Engineering
+Instead of rushing to learn everything, I'm focusing on building strong fundamentals in **Python**, **Data Structures & Algorithms**, and **Software Engineering**.
 
-I believe strong fundamentals and consistent practice create great
-engineers.
+I believe that every great engineer starts as a beginner. This GitHub profile is where I document my journey, share my projects, and grow one commit at a time.
 
-------------------------------------------------------------------------
+> **"Learning with purpose. Building with consistency."**
+# 🎯 Current Focus
 
-## 🎯 Current Focus
+- 🐍 Mastering Python
+- 🧩 Solving DSA consistently
+- 🤖 Exploring Artificial Intelligence
+- 🌐 Building Full Stack Projects
+- 💡 Learning by building real-world applications
+- 🌍 Preparing for Open Source contributions
 
--   Build real-world projects
--   Improve problem-solving
--   Learn AI engineering
--   Contribute to Open Source
--   Document my journey publicly
-
-------------------------------------------------------------------------
-
-## 🛠 Tech Stack
+---
+# 🛠️ Tech Stack
 
 ### Languages
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql" />`{=html}
-```{=html}
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,mysql"/>
 </p>
-```
-### Technologies
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,firebase,docker,git,github,vscode,linux,figma,androidstudio" />`{=html}
-```{=html}
+### Frameworks & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,firebase,git,github,vscode,docker,linux,figma,androidstudio"/>
 </p>
+
+---
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+# 🚀 My Journey
+
 ```
+Computer Science
 
-------------------------------------------------------------------------
+      │
 
-## 📈 My Journey
+      ▼
 
-``` text
 Python
-   ↓
-Data Structures & Algorithms
-   ↓
+
+      │
+
+      ▼
+
+Problem Solving
+
+      │
+
+      ▼
+
 Software Engineering
-   ↓
+
+      │
+
+      ▼
+
 Artificial Intelligence
-   ↓
-Open Source
-   ↓
+
+      │
+
+      ▼
+
 AI Engineer 🚀
 ```
 
-------------------------------------------------------------------------
+---
+# 🚀 Featured Repositories
 
-## 📊 GitHub Stats
+| Project | Description |
+|---------|-------------|
+| 🐍 Python Journey | Learning Python from basics to advanced |
+| 🧩 DSA Journey | Daily problem solving and notes |
+| 🤖 AI Projects | AI experiments and applications |
+| 🌐 Full Stack | Web development projects |
+| ⚡ Automation | Productivity and automation tools |
 
-Replace **YOUR_USERNAME** with your GitHub username.
+---
+# 🌐 Connect With Me
 
-``` md
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true
-https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true
-```
+<p align="center">
 
-------------------------------------------------------------------------
+<a href="https://github.com/sharvaripathade">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🚀 Featured Repositories
+<a href="https://linkedin.com/in/sharvari-pathade-79b7122a6">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
--   🐍 Python Journey
--   🧩 DSA Journey
--   🤖 AI Projects
--   ⚡ Automation Projects
--   🌐 Full Stack Projects
--   📱 Flutter Projects
+<a href="mailto:sharvaripathade@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-------------------------------------------------------------------------
+</p>
 
-## 🌱 Philosophy
+---
+<div align="center">
 
-> Every expert has a beginning.
->
-> This GitHub profile documents mine.
->
-> One commit. One project. One lesson at a time.
+### ⭐ Thanks for stopping by!
 
-------------------------------------------------------------------------
+**Building today for the engineer I want to become tomorrow.**
 
-## 📫 Connect
+*Every commit is a step forward.*
 
--   LinkedIn
--   GitHub
--   Email
+</div>
 
-------------------------------------------------------------------------
-
-⭐ Thanks for visiting my profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:2563EB,100:7C3AED"/>
