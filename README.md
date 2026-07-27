@@ -64,7 +64,7 @@ I believe that every great engineer starts as a beginner. This GitHub profile is
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharvaripathade&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
