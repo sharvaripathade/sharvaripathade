@@ -43,19 +43,17 @@ I believe that every great engineer starts as a beginner. This GitHub profile is
 </p>
 
 ---
-# 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sharvaripathade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharvaripathade&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvaripathade&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvaripathade&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharvaripathade&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sharvaripathade&theme=tokyonight&hide_border=true"/>
+</p>
 
 </p>
 
