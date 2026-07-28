@@ -73,7 +73,11 @@ I believe that every great engineer starts as a beginner. This GitHub profile is
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sharvaripathade&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+- ✅ Solved my first HackerRank problem on HackerRank
+- 🐍 Practicing Python programming fundamentals
+- 🚀 Beginning my journey towards solving 500+ DSA problems
 
 </p>
 
@@ -144,6 +148,10 @@ AI Engineer 🚀
 
 <a href="https://www.instagram.com/sharvaree.27">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/sharvaripathade">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
